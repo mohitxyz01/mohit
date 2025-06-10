@@ -33,11 +33,11 @@
   <!-- Backend -->
   <img src="https://img.icons8.com/fluency/48/node-js.png" width="50" height="48" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="50" height="48" alt="Java" />
-  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Server-Monitoring.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" width="50" height="48" alt="SQL" />
+  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Server-Monitoring.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" width="53" height="50" alt="SQL" />
   <img src="https://img.icons8.com/color/48/mongodb.png" width="50" height="48" alt="MongoDB" />
 
   <!-- Tools & Platforms -->
-  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="50" height="48" alt="AWS" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="52" height="47" alt="AWS" />
   <img src="https://img.icons8.com/color/48/git.png" width="50" height="48" alt="Git" />
   <img src="https://img.icons8.com/color/48/github--v1.png" width="50" height="48" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/visual-studio.png" width="50" height="48" alt="Visual Studio" />
