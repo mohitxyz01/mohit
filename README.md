@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
-<h1 align="center">Hi 👋, I'm Abhishek Ganvir!</h1>
+<h1 align="center">Hi 👋, I'm Aditya Rauniyar!</h1>
 <h3 align="center">A Passionate Full Stack Developer from India
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
 <div align="left">
@@ -11,8 +11,8 @@
 
 
 
-* 🎓  I'm currently pursuing a B.Tech in CSE.
-* ✉️  You can contact me at [abhishekganvirr@gmail.com](mailto:abhishekganvirr@gmail.com)
+* 🎓  I'm currently pursuing a B.Tech in Information Technology.
+* ✉️  You can contact me at [adityarauniyar.tech@gmail.com](mailto:adityarauniyar.tech@gmail.com)
 * ✨️ My best work till now  [IntervueAI](https://intervueai-io.vercel.app)
 * 🚀 Interested in future tech.
 
@@ -21,8 +21,6 @@
 </div>
 
 ### Skills
-<p align="left">
-### Skills  
 <p align="left">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="48" alt="HTML5" />
@@ -35,11 +33,11 @@
   <!-- Backend -->
   <img src="https://img.icons8.com/fluency/48/node-js.png" width="50" height="48" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="50" height="48" alt="Java" />
-  <img src="https://img.icons8.com/ios-filled/50/sql.png" width="50" height="48" alt="SQL" />
+  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Server-Monitoring.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" width="50" height="48" alt="SQL" />
   <img src="https://img.icons8.com/color/48/mongodb.png" width="50" height="48" alt="MongoDB" />
 
   <!-- Tools & Platforms -->
-  <img src="https://img.icons8.com/color/48/aws.png" width="50" height="48" alt="AWS" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="50" height="48" alt="AWS" />
   <img src="https://img.icons8.com/color/48/git.png" width="50" height="48" alt="Git" />
   <img src="https://img.icons8.com/color/48/github--v1.png" width="50" height="48" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/visual-studio.png" width="50" height="48" alt="Visual Studio" />
@@ -53,9 +51,9 @@
 </div>
 <h3 align="left">Connect with me </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishekganvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
-<a href="https://instagram.com/alright.abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="https://discord.com/users/1240908554534260872" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="abhishekganvir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-rauniyar-762618297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Rauniyar" height="26" width="35" /></a>
+<a href="https://instagram.com/_aditya.rauniyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
+<a href="mailto:adityarauniyar.tech@gmail.com" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/business/official-icon-library-of-alibaba/email-fill.png" alt="adityarauniyar" height="30" width="40" /></a>
 </p>
 
  <div align="left">
