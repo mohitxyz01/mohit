@@ -25,24 +25,24 @@
 ### Skills  
 <p align="left">
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/css3.png" width="40" height="40" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/bootstrap.png" width="40" height="40" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="40" height="40" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/react-native.png" width="40" height="40" alt="React.js" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="48" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" width="50" height="48" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="50" height="48" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" width="50" height="48" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="50" height="48" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/react-native.png" width="50" height="48" alt="React.js" />
 
   <!-- Backend -->
-  <img src="https://img.icons8.com/fluency/48/node-js.png" width="40" height="40" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="40" height="40" alt="Java" />
-  <img src="https://img.icons8.com/ios-filled/50/sql.png" width="40" height="40" alt="SQL" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" width="40" height="40" alt="MongoDB" />
+  <img src="https://img.icons8.com/fluency/48/node-js.png" width="50" height="48" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="50" height="48" alt="Java" />
+  <img src="https://img.icons8.com/ios-filled/50/sql.png" width="50" height="48" alt="SQL" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" width="50" height="48" alt="MongoDB" />
 
   <!-- Tools & Platforms -->
-  <img src="https://img.icons8.com/color/48/aws.png" width="40" height="40" alt="AWS" />
-  <img src="https://img.icons8.com/color/48/git.png" width="40" height="40" alt="Git" />
-  <img src="https://img.icons8.com/color/48/github--v1.png" width="40" height="40" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/visual-studio.png" width="40" height="40" alt="Visual Studio" />
+  <img src="https://img.icons8.com/color/48/aws.png" width="50" height="48" alt="AWS" />
+  <img src="https://img.icons8.com/color/48/git.png" width="50" height="48" alt="Git" />
+  <img src="https://img.icons8.com/color/48/github--v1.png" width="50" height="48" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/visual-studio.png" width="50" height="48" alt="Visual Studio" />
 </p>
 
 
