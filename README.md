@@ -33,7 +33,7 @@
   <!-- Backend -->
   <img src="https://img.icons8.com/fluency/48/node-js.png" width="50" height="48" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="50" height="48" alt="Java" />
-  <img src="https://icon2.cleanpng.com/20180330/xfq/avc0dubvl.webp" width="56" height="50" alt="SQL" />
+  <img src="https://icon2.cleanpng.com/20180330/xfq/avc0dubvl.webp" width="50" height="48" alt="SQL" />
   <img src="https://img.icons8.com/color/48/mongodb.png" width="50" height="48" alt="MongoDB" />
 
   <!-- Tools & Platforms -->
