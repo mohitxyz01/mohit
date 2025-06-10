@@ -53,7 +53,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-rauniyar-762618297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Rauniyar" height="26" width="35" /></a>
 <a href="https://instagram.com/_aditya.rauniyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="mailto:adityarauniyar.tech@gmail.com" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/business/official-icon-library-of-alibaba/email-fill.png" alt="adityarauniyar" height="30" width="40" /></a>
+<a href="mailto:adityarauniyar.tech@gmail.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/104/398/png-clipart-email-computer-icons-gmail-email-miscellaneous-blue-thumbnail.png" alt="adityarauniyar" height="30" width="40" /></a>
 </p>
 
  <div align="left">
